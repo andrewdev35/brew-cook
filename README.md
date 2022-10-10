@@ -1,6 +1,8 @@
 # `brew cook`
 
+
 ## "Cook" a system by installing/uninstalling everything from a manifest.
+
 
 Takes a Brewfile as defined by the `brew bundle` cask. Unlike `brew
 bundle`, `brew cook` will install and _uninstall_ any needed or
